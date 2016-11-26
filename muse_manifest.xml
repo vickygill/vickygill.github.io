@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480202726022">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480203374608">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4105259486" ref="upcoming-projects:new-projects:u-social-towns:ballantry-homes:contact:index:bennett-on-bayview"/>
@@ -49,7 +49,7 @@
     <file name="u-social towns-u1482.png" crc="3888547914" ref="u-social-towns"/>
   </folder>
   <file name="index.html" crc="4271727888" seo="true" mt="1480197866912" redirect="true"/>
-  <file name="contact.html" crc="426136972" seo="true" mt="1480202685283" redirect="true"/>
+  <file name="contact.html" crc="4070090400" seo="true" mt="1480203368098" redirect="true"/>
   <file name="upcoming-projects.html" crc="3980291739" seo="true" mt="1480197737925" redirect="true"/>
   <file name="new-projects.html" crc="4018655049" seo="true" mt="1480197566735" redirect="true"/>
   <file name="bennett-on-bayview.html" crc="400543226" seo="true" mt="1480197566735" redirect="true"/>
