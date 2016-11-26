@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480198517012">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480202726022">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4105259486" ref="upcoming-projects:new-projects:u-social-towns:ballantry-homes:contact:index:bennett-on-bayview"/>
@@ -6,7 +6,7 @@
     <file name="new-projects.css" crc="132077420" ref="new-projects"/>
     <file name="u-social-towns.css" crc="219197336" ref="u-social-towns"/>
     <file name="ballantry-homes.css" crc="261026140" ref="ballantry-homes"/>
-    <file name="contact.css" crc="316291453" ref="contact"/>
+    <file name="contact.css" crc="36554321" ref="contact"/>
     <file name="index.css" crc="309055829" ref="index"/>
     <file name="bennett-on-bayview.css" crc="4253042570" ref="bennett-on-bayview"/>
   </folder>
@@ -21,11 +21,6 @@
     <file name="jquery.watch.js" crc="104486786" ref="index:contact:upcoming-projects:new-projects:bennett-on-bayview:ballantry-homes:u-social-towns"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:contact:upcoming-projects:new-projects:bennett-on-bayview:ballantry-homes:u-social-towns"/>
     <file name="require.js" crc="244322403" ref="index:contact:upcoming-projects:new-projects:bennett-on-bayview:ballantry-homes:u-social-towns"/>
-    <file name="webpro.js" crc="3848665353" ref="contact"/>
-    <file name="form_check.php" crc="158155501" ref="contact"/>
-    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
-    <file name="form_process.php" crc="4078697226" ref="contact"/>
-    <file name="form-u1509.php" crc="4174858052" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="new projects-up.png" crc="3798089236" ref="index:contact:upcoming-projects:new-projects:bennett-on-bayview:ballantry-homes:u-social-towns"/>
@@ -40,7 +35,6 @@
     <file name="search condos-2.png" crc="4175531575" ref="index"/>
     <file name="u958-4.png" crc="180263248" ref="index"/>
     <file name="home-over.png" crc="277005839" ref="contact:upcoming-projects:new-projects:bennett-on-bayview:ballantry-homes:u-social-towns"/>
-    <file name="blank.gif" crc="4208392903" ref="contact"/>
     <file name="u1688-4.png" crc="4101545511" ref="contact"/>
     <file name="ballantry homes-u1336.png" crc="3775537253" ref="upcoming-projects"/>
     <file name="u1347-4.png" crc="364329498" ref="upcoming-projects"/>
@@ -55,7 +49,7 @@
     <file name="u-social towns-u1482.png" crc="3888547914" ref="u-social-towns"/>
   </folder>
   <file name="index.html" crc="4271727888" seo="true" mt="1480197866912" redirect="true"/>
-  <file name="contact.html" crc="156001234" seo="true" mt="1480197790867" redirect="true"/>
+  <file name="contact.html" crc="426136972" seo="true" mt="1480202685283" redirect="true"/>
   <file name="upcoming-projects.html" crc="3980291739" seo="true" mt="1480197737925" redirect="true"/>
   <file name="new-projects.html" crc="4018655049" seo="true" mt="1480197566735" redirect="true"/>
   <file name="bennett-on-bayview.html" crc="400543226" seo="true" mt="1480197566735" redirect="true"/>
