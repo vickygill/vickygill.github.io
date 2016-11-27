@@ -22,6 +22,13 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://vipcondos.co/phone/new-projects.html"/>
   </url>
   <url>
+    <loc>http://vipcondos.co/ballantry-homes.html</loc>
+    <lastmod>2016-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://vipcondos.co/phone/ballantry-homes.html"/>
+  </url>
+  <url>
     <loc>http://vipcondos.co/contact.html</loc>
     <lastmod>2016-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,13 +41,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://vipcondos.co/phone/bennett-on-bayview.html"/>
-  </url>
-  <url>
-    <loc>http://vipcondos.co/ballantry-homes.html</loc>
-    <lastmod>2016-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://vipcondos.co/phone/ballantry-homes.html"/>
   </url>
   <url>
     <loc>http://vipcondos.co/u-social-towns.html</loc>
@@ -57,6 +57,12 @@
   </url>
   <url>
     <loc>http://vipcondos.co/images/vip%20condos.png</loc>
+    <lastmod>2016-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vipcondos.co/images/toronto.jpg</loc>
     <lastmod>2016-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
