@@ -1,21 +1,21 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480286180670">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vipcondos.co" resolutions="1x" timestamp="1480286585883">
   <folder name="phone">
     <folder name="css">
-      <file name="bennett-on-bayview.css" crc="4089153889" ref="phone>bennett-on-bayview"/>
-      <file name="upcoming-projects.css" crc="4222201482" ref="phone>upcoming-projects"/>
-      <file name="ballantry-homes.css" crc="130197605" ref="phone>ballantry-homes"/>
-      <file name="index.css" crc="3791074578" ref="phone>index"/>
-      <file name="u-social-towns.css" crc="241730631" ref="phone>u-social-towns"/>
-      <file name="new-projects.css" crc="136360788" ref="phone>new-projects"/>
-      <file name="contact.css" crc="4049523946" ref="phone>contact"/>
+      <file name="bennett-on-bayview.css" crc="4162292081" ref="phone>bennett-on-bayview"/>
+      <file name="upcoming-projects.css" crc="422667289" ref="phone>upcoming-projects"/>
+      <file name="ballantry-homes.css" crc="313919650" ref="phone>ballantry-homes"/>
+      <file name="index.css" crc="3904615579" ref="phone>index"/>
+      <file name="u-social-towns.css" crc="465082816" ref="phone>u-social-towns"/>
+      <file name="new-projects.css" crc="4039657086" ref="phone>new-projects"/>
+      <file name="contact.css" crc="4168636152" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="2664374" seo="true" mt="1480286165817" redirect="true"/>
-    <file name="new-projects.html" crc="496290651" seo="true" mt="1480286166955" redirect="true"/>
-    <file name="bennett-on-bayview.html" crc="230848161" seo="true" mt="1480286166951" redirect="true"/>
-    <file name="upcoming-projects.html" crc="4138378290" seo="true" mt="1480286169039" redirect="true"/>
-    <file name="ballantry-homes.html" crc="3804434201" seo="true" mt="1480286167923" redirect="true"/>
-    <file name="u-social-towns.html" crc="4200556084" seo="true" mt="1480286169040" redirect="true"/>
-    <file name="contact.html" crc="118649990" seo="true" mt="1480285572042" redirect="true"/>
+    <file name="index.html" crc="4291464051" seo="true" mt="1480286391718" redirect="true"/>
+    <file name="new-projects.html" crc="3802272936" seo="true" mt="1480286499385" redirect="true"/>
+    <file name="bennett-on-bayview.html" crc="98423919" seo="true" mt="1480286542564" redirect="true"/>
+    <file name="upcoming-projects.html" crc="102391344" seo="true" mt="1480286509697" redirect="true"/>
+    <file name="ballantry-homes.html" crc="158233423" seo="true" mt="1480286440988" redirect="true"/>
+    <file name="u-social-towns.html" crc="486327202" seo="true" mt="1480286477054" redirect="true"/>
+    <file name="contact.html" crc="338675967" seo="true" mt="1480286426412" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
@@ -90,33 +90,33 @@
     <file name="upcoming projects_updated-2.png" crc="297017274" ref="upcoming-projects"/>
     <file name="new projects_updated-2.png" crc="300485068" ref="new-projects"/>
     <file name="u3759-6.png" crc="252550475" ref="new-projects"/>
-    <file name="u6104.png" crc="63422059" ref="phone>new-projects"/>
-    <file name="u6104-r.png" crc="63422059" ref="phone>new-projects"/>
-    <file name="u6104-m.png" crc="63422059" ref="phone>new-projects"/>
-    <file name="u6104-a.png" crc="63422059" ref="phone>new-projects"/>
-    <file name="u6461.png" crc="63422059" ref="phone>bennett-on-bayview"/>
-    <file name="u6461-r.png" crc="63422059" ref="phone>bennett-on-bayview"/>
-    <file name="u6461-m.png" crc="63422059" ref="phone>bennett-on-bayview"/>
-    <file name="u6461-a.png" crc="63422059" ref="phone>bennett-on-bayview"/>
     <file name="toronto.jpg" crc="4085625903" seo="true" ref="phone>upcoming-projects"/>
-    <file name="u6223.png" crc="63422059" ref="phone>upcoming-projects"/>
-    <file name="u6223-r.png" crc="63422059" ref="phone>upcoming-projects"/>
-    <file name="u6223-m.png" crc="63422059" ref="phone>upcoming-projects"/>
-    <file name="u6223-a.png" crc="63422059" ref="phone>upcoming-projects"/>
-    <file name="u6580.png" crc="63422059" ref="phone>ballantry-homes"/>
-    <file name="u6580-r.png" crc="63422059" ref="phone>ballantry-homes"/>
-    <file name="u6580-m.png" crc="63422059" ref="phone>ballantry-homes"/>
-    <file name="u6580-a.png" crc="63422059" ref="phone>ballantry-homes"/>
-    <file name="u6699.png" crc="63422059" ref="phone>u-social-towns"/>
-    <file name="u6699-r.png" crc="63422059" ref="phone>u-social-towns"/>
-    <file name="u6699-m.png" crc="63422059" ref="phone>u-social-towns"/>
-    <file name="u6699-a.png" crc="63422059" ref="phone>u-social-towns"/>
-    <file name="u6342.png" crc="63422059" ref="phone>contact"/>
-    <file name="u6342-r.png" crc="63422059" ref="phone>contact"/>
-    <file name="u6342-m.png" crc="63422059" ref="phone>contact"/>
-    <file name="u6342-a.png" crc="63422059" ref="phone>contact"/>
     <file name="search condos-u940-fr.png" crc="3799323623" ref="index"/>
     <file name="search condos-u940-r-fr.png" crc="447352189" ref="index"/>
+    <file name="u7181.png" crc="63422059" ref="phone>new-projects"/>
+    <file name="u7181-r.png" crc="63422059" ref="phone>new-projects"/>
+    <file name="u7181-m.png" crc="63422059" ref="phone>new-projects"/>
+    <file name="u7181-a.png" crc="63422059" ref="phone>new-projects"/>
+    <file name="u7399.png" crc="63422059" ref="phone>bennett-on-bayview"/>
+    <file name="u7399-r.png" crc="63422059" ref="phone>bennett-on-bayview"/>
+    <file name="u7399-m.png" crc="63422059" ref="phone>bennett-on-bayview"/>
+    <file name="u7399-a.png" crc="63422059" ref="phone>bennett-on-bayview"/>
+    <file name="u7290.png" crc="63422059" ref="phone>upcoming-projects"/>
+    <file name="u7290-r.png" crc="63422059" ref="phone>upcoming-projects"/>
+    <file name="u7290-m.png" crc="63422059" ref="phone>upcoming-projects"/>
+    <file name="u7290-a.png" crc="63422059" ref="phone>upcoming-projects"/>
+    <file name="u6963.png" crc="63422059" ref="phone>ballantry-homes"/>
+    <file name="u6963-r.png" crc="63422059" ref="phone>ballantry-homes"/>
+    <file name="u6963-m.png" crc="63422059" ref="phone>ballantry-homes"/>
+    <file name="u6963-a.png" crc="63422059" ref="phone>ballantry-homes"/>
+    <file name="u7072.png" crc="63422059" ref="phone>u-social-towns"/>
+    <file name="u7072-r.png" crc="63422059" ref="phone>u-social-towns"/>
+    <file name="u7072-m.png" crc="63422059" ref="phone>u-social-towns"/>
+    <file name="u7072-a.png" crc="63422059" ref="phone>u-social-towns"/>
+    <file name="u6854.png" crc="63422059" ref="phone>contact"/>
+    <file name="u6854-r.png" crc="63422059" ref="phone>contact"/>
+    <file name="u6854-m.png" crc="63422059" ref="phone>contact"/>
+    <file name="u6854-a.png" crc="63422059" ref="phone>contact"/>
   </folder>
   <file name="index.html" crc="4000083841" seo="true" mt="1480286165820" redirect="true"/>
   <file name="contact.html" crc="125369839" seo="true" mt="1480284611639" redirect="true"/>
