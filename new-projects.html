@@ -16,25 +16,30 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>New Projects</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4105259486"/>
-  <link rel="stylesheet" type="text/css" href="css/new-projects.css?crc=132077420" id="pagesheet"/>
-    <!--HTML Widget code-->
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=152009747"/>
+  <link rel="stylesheet" type="text/css" href="css/new-projects.css?crc=4136968815" id="pagesheet"/>
+    <!--custom head HTML-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68273724-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
+<script>snowStorm.excludeMobile = false;</script>
+<script>
+snowStorm.animationInterval = 120; //milliseconds per frame, the higher the less CPU load
+snowStorm.flakesMaxActive = 30; //maximum number of active snow flakes, the lower the less CPU/GPU is needed to draw them
+snowStorm.freezeOnBlur = true; //recommended: stops the snow effect when the user switches to another tab or window
+snowStorm.usePositionFixed = false; //if the user scrolls, the snow is not affected by the window scroll. Disable to prevent extra CPU load
+</script>
+  <!--HTML Widget code-->
   
-    <style>
-.Enter the name of Graphics style img {
-transition: all 0.4s ease 0s;
--webkit-transition: all 0.4s ease 0s;
-transform-origin: center center;
--webkit-transform-origin: center center;
-}
-
-.Enter the name of Graphics style img:hover {
-transform: scale(1.2) rotate(6deg);
--webkit-transform: scale(1.2) rotate(6deg);
-}
-
-</style>
-
 <style>
 video {
   width: 100%;
@@ -46,8 +51,6 @@ video {
 
   <div class="clearfix" id="page"><!-- group -->
    <div class="size_fixed grpelem" id="u1761"><!-- custom html -->
-   </div>
-   <div class="size_fixed grpelem" id="u1822"><!-- custom html -->
    </div>
    <div class="size_fixed grpelem" id="u781"><!-- custom html -->
     
@@ -69,9 +72,7 @@ video {
    <a class="nonblock nontext museBGSize grpelem" id="u782" href="index.html"><!-- simple frame --></a>
    <a class="nonblock nontext museBGSize grpelem" id="u783" href="contact.html"><!-- simple frame --></a>
    <a class="nonblock nontext museBGSize grpelem" id="u777" href="upcoming-projects.html"><!-- simple frame --></a>
-   <div class="clip_frame grpelem" id="u853"><!-- image -->
-    <img class="block" id="u853_img" src="images/vip%20condos.png?crc=479467889" alt="" width="241" height="55"/>
-   </div>
+   <a class="nonblock nontext clip_frame grpelem" id="u853" href="index.html"><!-- image --><img class="block" id="u853_img" src="images/vip%20condos.png?crc=479467889" alt="" width="241" height="55"/></a>
    <a class="nonblock nontext grpelem" id="u1057" href="bennett-on-bayview.html"><!-- rasterized frame --><div id="u1057_img"></div></a>
    <img class="grpelem" id="u1068-4" alt="NEW PROJECTS" width="492" height="98" src="images/u1068-4.png?crc=522097882"/><!-- rasterized frame -->
    <div class="verticalspacer" data-offset-top="935" data-content-above-spacer="935" data-content-below-spacer="0"></div>
